@@ -1,0 +1,1 @@
+A junção de todos os aplicativos da sala em um projeto só.
